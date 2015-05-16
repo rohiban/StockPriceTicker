@@ -1,0 +1,2 @@
+# StockPriceTicker
+for observer pattern
